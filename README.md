@@ -29,7 +29,8 @@ Una plantilla de [CookieCutter](https://cookiecutter.readthedocs.io/en/1.7.3/ind
         │
         ├── environment.yml    <- Manifiesto utilizado por Conda.
         │
-        ├── requirements.txt   <- Enlista todas las librerías de Python necesarias                      │                         y sus versiones para que el proyecto funcione.
+        ├── requirements.txt   <- Enlista todas las librerías de Python necesarias
+        │                         y sus versiones para que el proyecto funcione.
         │
         └── README.md          <- El README principal.
 
