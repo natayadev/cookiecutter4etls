@@ -1,4 +1,4 @@
-# Cookiecutter4ETLs Template
+# CookieCutter4ETLs Template
 Una plantilla de [CookieCutter](https://cookiecutter.readthedocs.io/en/1.7.3/index.html) para ETLs en Python.
 
 ## Paso a paso
