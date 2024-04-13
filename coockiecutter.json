@@ -1,0 +1,9 @@
+{
+    "project_title": "Cookiecutter4ETLs",
+    "project_slug": "{{ coockiecutter.project_title.lower().replace(" ", "_").replace("-", "_") }}",
+    "project_description": "Plantilla de Cookiecutter para ETLs en Python.",
+    "project_author_name": "Nataya Flores",
+    "project_packages": ["All, Minimal"],
+    "project_version": "1.0.0",
+    "python_version": "3.12.3"
+}
